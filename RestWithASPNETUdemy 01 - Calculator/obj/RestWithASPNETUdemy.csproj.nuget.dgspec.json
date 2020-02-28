@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Estudos Front e Back\\BackEnd\\CursoAspNet\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {}
+    "C:\\dev\\Estudos Front e Back\\BackEnd\\CursoAspNet\\RestWithASP-NETUdemy\\RestWithASPNETUdemy 01 - Calculator\\RestWithASPNETUdemy.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Estudos Front e Back\\BackEnd\\CursoAspNet\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {
+    "C:\\dev\\Estudos Front e Back\\BackEnd\\CursoAspNet\\RestWithASP-NETUdemy\\RestWithASPNETUdemy 01 - Calculator\\RestWithASPNETUdemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Estudos Front e Back\\BackEnd\\CursoAspNet\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+        "projectUniqueName": "C:\\dev\\Estudos Front e Back\\BackEnd\\CursoAspNet\\RestWithASP-NETUdemy\\RestWithASPNETUdemy 01 - Calculator\\RestWithASPNETUdemy.csproj",
         "projectName": "RestWithASPNETUdemy",
-        "projectPath": "C:\\dev\\Estudos Front e Back\\BackEnd\\CursoAspNet\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+        "projectPath": "C:\\dev\\Estudos Front e Back\\BackEnd\\CursoAspNet\\RestWithASP-NETUdemy\\RestWithASPNETUdemy 01 - Calculator\\RestWithASPNETUdemy.csproj",
         "packagesPath": "C:\\Users\\55319\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Estudos Front e Back\\BackEnd\\CursoAspNet\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\obj\\",
+        "outputPath": "C:\\dev\\Estudos Front e Back\\BackEnd\\CursoAspNet\\RestWithASP-NETUdemy\\RestWithASPNETUdemy 01 - Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
